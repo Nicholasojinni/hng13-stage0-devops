@@ -1,6 +1,9 @@
-# HNG13 Stage 0 - DevOps
+<<<<<<< HEAD
+# HNG13 DevOps Stage 0
 
-Full Name: Nicholas Ojinni
-Slack Name: St-Nicholas
-This is my DevOps Stage 0 project for HNG13. It deploys a simple NGINX web server that serves a custom HTML page.
-Server: http://<your-server-ip>/   # (add after deployment)
+**Name:** Nicholas Ojinni  
+**Slack Username:** St-Nicholas  
+**Project Description:**  
+This is my submission for HNG13 DevOps Stage 0 task. The project deploys an NGINX web server serving a custom HTML page on port 80.  
+**Server IP/Domain:** (to be added after deployment)
+>>>>>>> b9f22db (Add README with name and slack)
